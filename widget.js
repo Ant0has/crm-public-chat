@@ -205,7 +205,7 @@
     #c2c-chat-iframe {
       position: absolute;
       top: 56px; /* высота header */
-      height: 500px;
+      height: 500px !important;
       left: 0;
       right: 0;
       bottom: 0;
