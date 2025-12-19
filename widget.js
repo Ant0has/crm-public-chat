@@ -206,7 +206,7 @@
       height: calc(100% - 56px) !important;
       position: absolute;
       top: 56px; /* высота header */
-      height:500px;
+      height: 500px;
       left: 0;
       right: 0;
       bottom: 0;
