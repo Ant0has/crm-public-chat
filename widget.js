@@ -139,7 +139,6 @@
       bottom: 70px;
       ${POSITION}: 0;
       width: 380px;
-      height: 520px;
       background: white;
       border-radius: 16px;
       box-shadow: 0 5px 40px rgba(0,0,0,0.16);
@@ -207,6 +206,7 @@
       height: calc(100% - 56px) !important;
       position: absolute;
       top: 56px; /* высота header */
+      height:500px;
       left: 0;
       right: 0;
       bottom: 0;
