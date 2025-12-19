@@ -203,7 +203,6 @@
     }
     }
     #c2c-chat-iframe {
-      height: calc(100% - 56px) !important;
       position: absolute;
       top: 56px; /* высота header */
       height: 500px;
