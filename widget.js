@@ -473,6 +473,7 @@
           chatInitialized = true;
           loading.classList.remove('active');
           iframe.style.display = 'block';
+          iframe.style.height = '500px';
           iframe.src = `${CONFIG.chatUrl}/c/${data.token}`;
         } else {
           throw new Error('No token received');
